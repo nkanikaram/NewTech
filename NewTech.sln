@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewTech", "NewTech\NewTech.csproj", "{B52A90EC-46EA-4E76-A634-54B3E43BA8E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewTech.Testing", "NewTech.Testing\NewTech.Testing.csproj", "{EF46D30D-22BA-46A1-974E-6D6DFC104E47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B52A90EC-46EA-4E76-A634-54B3E43BA8E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B52A90EC-46EA-4E76-A634-54B3E43BA8E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B52A90EC-46EA-4E76-A634-54B3E43BA8E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B52A90EC-46EA-4E76-A634-54B3E43BA8E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF46D30D-22BA-46A1-974E-6D6DFC104E47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF46D30D-22BA-46A1-974E-6D6DFC104E47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF46D30D-22BA-46A1-974E-6D6DFC104E47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF46D30D-22BA-46A1-974E-6D6DFC104E47}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E83BEA5-A7D5-4B6B-8063-9E45880A6D47}
+	EndGlobalSection
+EndGlobal

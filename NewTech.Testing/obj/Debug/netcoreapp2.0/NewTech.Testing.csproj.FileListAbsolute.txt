@@ -1,0 +1,17 @@
+C:\Projects\NewTech\NewTech.Testing\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Projects\NewTech\NewTech.Testing\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Projects\NewTech\NewTech.Testing\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Projects\NewTech\NewTech.Testing\bin\Debug\netcoreapp2.0\NewTech.Testing.deps.json
+C:\Projects\NewTech\NewTech.Testing\bin\Debug\netcoreapp2.0\NewTech.Testing.runtimeconfig.json
+C:\Projects\NewTech\NewTech.Testing\bin\Debug\netcoreapp2.0\NewTech.Testing.runtimeconfig.dev.json
+C:\Projects\NewTech\NewTech.Testing\bin\Debug\netcoreapp2.0\NewTech.Testing.dll
+C:\Projects\NewTech\NewTech.Testing\bin\Debug\netcoreapp2.0\NewTech.Testing.pdb
+C:\Projects\NewTech\NewTech.Testing\bin\Debug\netcoreapp2.0\NewTech.dll
+C:\Projects\NewTech\NewTech.Testing\bin\Debug\netcoreapp2.0\NewTech.pdb
+C:\Projects\NewTech\NewTech.Testing\obj\Debug\netcoreapp2.0\NewTech.Testing.csprojAssemblyReference.cache
+C:\Projects\NewTech\NewTech.Testing\obj\Debug\netcoreapp2.0\NewTech.Testing.csproj.CoreCompileInputs.cache
+C:\Projects\NewTech\NewTech.Testing\obj\Debug\netcoreapp2.0\NewTech.Testing.AssemblyInfoInputs.cache
+C:\Projects\NewTech\NewTech.Testing\obj\Debug\netcoreapp2.0\NewTech.Testing.AssemblyInfo.cs
+C:\Projects\NewTech\NewTech.Testing\obj\Debug\netcoreapp2.0\NewTech.Testing.csproj.CopyComplete
+C:\Projects\NewTech\NewTech.Testing\obj\Debug\netcoreapp2.0\NewTech.Testing.dll
+C:\Projects\NewTech\NewTech.Testing\obj\Debug\netcoreapp2.0\NewTech.Testing.pdb

@@ -1,0 +1,11 @@
+C:\Projects\NewTech\NewTech\bin\Debug\netcoreapp2.0\NewTech.deps.json
+C:\Projects\NewTech\NewTech\bin\Debug\netcoreapp2.0\NewTech.runtimeconfig.json
+C:\Projects\NewTech\NewTech\bin\Debug\netcoreapp2.0\NewTech.runtimeconfig.dev.json
+C:\Projects\NewTech\NewTech\bin\Debug\netcoreapp2.0\NewTech.dll
+C:\Projects\NewTech\NewTech\obj\Debug\netcoreapp2.0\NewTech.csprojAssemblyReference.cache
+C:\Projects\NewTech\NewTech\obj\Debug\netcoreapp2.0\NewTech.csproj.CoreCompileInputs.cache
+C:\Projects\NewTech\NewTech\obj\Debug\netcoreapp2.0\NewTech.AssemblyInfoInputs.cache
+C:\Projects\NewTech\NewTech\obj\Debug\netcoreapp2.0\NewTech.AssemblyInfo.cs
+C:\Projects\NewTech\NewTech\bin\Debug\netcoreapp2.0\NewTech.pdb
+C:\Projects\NewTech\NewTech\obj\Debug\netcoreapp2.0\NewTech.dll
+C:\Projects\NewTech\NewTech\obj\Debug\netcoreapp2.0\NewTech.pdb
